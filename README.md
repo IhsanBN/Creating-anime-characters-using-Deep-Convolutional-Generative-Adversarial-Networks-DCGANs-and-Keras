@@ -17,7 +17,7 @@ Proyek ini bertujuan untuk membuat karakter anime menggunakan Deep Convolutional
 
 2. Teknologi yang Digunakan
 
-Streamlit
+## Streamlit
 
 Penggunaan:
 
@@ -36,7 +36,7 @@ Kelebihan: Mempermudah pembuatan antarmuka untuk visualisasi model.
 
 Kekurangan: Tidak optimal untuk aplikasi web skala besar.
 
-TensorFlow & tf-keras
+## TensorFlow & tf-keras
 
 Penggunaan:
 
@@ -59,7 +59,7 @@ Kelebihan: Ekosistem kuat dengan integrasi GPU.
 
 Kekurangan: Membutuhkan pemahaman mendalam untuk debugging.
 
-Torch dan TorchVision
+## Torch dan TorchVision
 
 Penggunaan:
 
@@ -78,7 +78,7 @@ Kelebihan: Fleksibel untuk eksperimen.
 
 Kekurangan: Dokumentasi untuk pemula kurang intuitif dibandingkan Keras.
 
-Plotly
+## Plotly
 
 Penggunaan:
 
@@ -97,7 +97,7 @@ Kelebihan: Mendukung visualisasi yang dinamis.
 
 Kekurangan: Memerlukan lebih banyak konfigurasi dibanding Matplotlib.
 
-Pandas dan Numpy
+## Pandas dan Numpy
 
 Penggunaan:
 
@@ -117,7 +117,7 @@ Kelebihan: Efisien untuk pengolahan data tabular.
 
 Kekurangan: Tidak cocok untuk pemrosesan data besar tanpa optimasi tambahan.
 
-Pillow
+## Pillow
 
 Penggunaan:
 
@@ -136,7 +136,7 @@ Kelebihan: Ringan dan mudah digunakan.
 
 Kekurangan: Tidak mendukung pengolahan gambar yang sangat kompleks.
 
-Requests
+## Requests
 
 Penggunaan:
 
@@ -156,7 +156,7 @@ Kelebihan: Sangat intuitif untuk HTTP requests.
 
 Kekurangan: Tidak mendukung asynchronous langsung.
 
-LightGBM
+## LightGBM
 
 Penggunaan:
 
@@ -175,7 +175,7 @@ Kelebihan: Cepat untuk data besar.
 
 Kekurangan: Tidak digunakan untuk deep learning.
 
-Scikit-learn
+## Scikit-learn
 
 Penggunaan:
 
