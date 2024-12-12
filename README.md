@@ -11,11 +11,12 @@
 
 # Creating-anime-characters-using-Deep-Convolutional-Generative-Adversarial-Networks-DCGANs-and-Keras
 
-1. Pendahuluan Proyek
-
+# 1. Pendahuluan Proyek
 Proyek ini bertujuan untuk membuat karakter anime menggunakan Deep Convolutional Generative Adversarial Networks (DCGANs). DCGAN adalah arsitektur neural network yang menggunakan generator dan discriminator untuk menghasilkan data baru (dalam kasus ini, gambar anime) yang realistis. Framework utama yang digunakan adalah Keras dengan TensorFlow sebagai backend.
 
-2. Teknologi yang Digunakan
+
+# 2. Teknologi yang Digunakan
+
 
 ## Streamlit
 
@@ -193,6 +194,6 @@ Kelebihan: Sangat mudah digunakan.
 
 Kekurangan: Tidak mendukung deep learning secara langsung.
 
-3. Kesimpulan
 
+# 3. Kesimpulan
 Proyek ini mengintegrasikan berbagai teknologi untuk menghasilkan karakter anime menggunakan DCGAN. Kombinasi antara framework seperti TensorFlow/Keras, Streamlit untuk antarmuka, dan Torch untuk eksperimen memberikan fleksibilitas dalam pengembangan. Setiap teknologi memiliki kelebihan dan kekurangan yang saling melengkapi untuk mendukung seluruh siklus proyek.
